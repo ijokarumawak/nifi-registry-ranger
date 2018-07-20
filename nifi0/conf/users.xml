@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tenants>
+    <groups/>
+    <users>
+        <user identifier="79fcc887-3a8a-3430-8cf9-3d29dc2be10c" identity="admin@NIFI"/>
+        <user identifier="37294913-72a7-3117-9d30-b4e531868fd8" identity="localhost@NIFI"/>
+        <user identifier="c8fa55f0-43d5-378a-b289-ecd259997136" identity="ranger@NIFI"/>
+        <user identifier="6e362512-0164-1000-b4e4-664d3c8220db" identity="alice@NIFI"/>
+    </users>
+</tenants>

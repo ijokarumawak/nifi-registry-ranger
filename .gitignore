@@ -1,0 +1,9 @@
+nifi0/*_repository
+nifi0/state
+nifi0/conf/archive
+nifi0/conf/state
+work
+run
+logs
+database
+flow_storage

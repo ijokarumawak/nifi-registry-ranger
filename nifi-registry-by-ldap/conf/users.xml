@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tenants>
+    <groups>
+        <group identifier="3ca0132c-a955-4d18-b875-2bb0a2d8ba06" name="local-group"/>
+    </groups>
+    <users>
+        <user identifier="79fcc887-3a8a-3430-8cf9-3d29dc2be10c" identity="admin@NIFI"/>
+        <user identifier="02234312-1536-4597-90b4-a2b765e13c31" identity="alice@NIFI"/>
+        <user identifier="0dd9645d-04a6-4518-ab52-4106e284e747" identity="bob@NIFI"/>
+        <user identifier="c04ba464-1ec1-446b-880d-6baa706f645e" identity="nifi0@NIFI"/>
+    </users>
+</tenants>
