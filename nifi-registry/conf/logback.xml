@@ -68,6 +68,9 @@
     
     <logger name="org.apache.nifi.registry" level="INFO"/>
     <logger name="org.apache.nifi.registry.provider.flow.git" level="TRACE"/>
+    <logger name="org.apache.ranger" level="DEBUG"/>
+    <logger name="org.apache.http" level="DEBUG"/>
+    <logger name="org.apache.solr" level="TRACE"/>
 
     <!-- To see SQL statements set this to DEBUG -->
     <logger name="org.hibernate.SQL" level="INFO" />

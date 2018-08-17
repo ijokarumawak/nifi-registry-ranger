@@ -257,7 +257,7 @@
         <!-- <property name="User Group Provider">file-user-group-provider</property> -->
         <property name="User Group Provider">composite-configurable-user-group-provider</property>
         <property name="Ranger Service Type">nifi-registry</property>
-        <property name="Ranger Application Id">nifi-registry</property>
+        <property name="Ranger Application Id">nifi-registry-dev</property>
         <property name="Ranger Security Config Path">./conf/ranger-nifi-registry-security.xml</property>
         <property name="Ranger Audit Config Path">./conf/ranger-nifi-registry-audit.xml</property>
         <property name="Ranger Kerberos Enabled">false</property>
